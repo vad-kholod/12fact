@@ -1,1 +1,1 @@
-web: bin/12fact
+web: bin/otus
